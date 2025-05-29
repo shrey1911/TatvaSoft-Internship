@@ -1,0 +1,15 @@
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\bin\Debug\net8.0\Books.DataAccess.deps.json
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\bin\Debug\net8.0\Books.DataAccess.runtimeconfig.json
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\bin\Debug\net8.0\Books.DataAccess.dll
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\bin\Debug\net8.0\Books.DataAccess.pdb
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.csproj.AssemblyReference.cache
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.AssemblyInfoInputs.cache
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.AssemblyInfo.cs
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.sourcelink.json
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.dll
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\refint\Books.DataAccess.dll
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.pdb
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\Books.DataAccess.genruntimeconfig.cache
+C:\Users\shrey\Desktop\DAY2 Internship\Todays task\TatvaSoft-Internship\TatvaSoft-Internship\Day4\Book_Management\Books.DataAccess\obj\Debug\net8.0\ref\Books.DataAccess.dll

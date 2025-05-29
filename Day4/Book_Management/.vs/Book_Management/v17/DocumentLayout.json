@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9168A9C2-AFA3-411C-90B5-1100FBF46C49}|Books.DataAccess\\Books.DataAccess.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\books.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9168A9C2-AFA3-411C-90B5-1100FBF46C49}|Books.DataAccess\\Books.DataAccess.csproj|solutionrelative:books.dataaccess\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\book_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\book_management\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B7254-CA61-446A-ADA6-78C2A4A310A6}|Books.services\\Books.services.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\books.services\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{731B7254-CA61-446A-ADA6-78C2A4A310A6}|Books.services\\Books.services.csproj|solutionrelative:books.services\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{731B7254-CA61-446A-ADA6-78C2A4A310A6}|Books.services\\Books.services.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\books.services\\books.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{731B7254-CA61-446A-ADA6-78C2A4A310A6}|Books.services\\Books.services.csproj|solutionrelative:books.services\\books.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\book_management\\book_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED8CD986-CB29-4141-8734-13F768B593A6}|Book_Management\\Book_Management.csproj|solutionrelative:book_management\\book_management.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9168A9C2-AFA3-411C-90B5-1100FBF46C49}|Books.DataAccess\\Books.DataAccess.csproj|c:\\users\\shrey\\desktop\\day2 internship\\todays task\\tatvasoft-internship\\tatvasoft-internship\\day4\\book_management\\books.dataaccess\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9168A9C2-AFA3-411C-90B5-1100FBF46C49}|Books.DataAccess\\Books.DataAccess.csproj|solutionrelative:books.dataaccess\\booksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.services\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Books.services\\Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.services\\Services\\BookServices.cs",
+              "RelativeToolTip": "Books.services\\Services\\BookServices.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAQwCsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T07:26:02.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Books.services",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.services\\Books.services.csproj",
+              "RelativeDocumentMoniker": "Books.services\\Books.services.csproj",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.services\\Books.services.csproj",
+              "RelativeToolTip": "Books.services\\Books.services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T07:25:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeDocumentMoniker": "Books.DataAccess\\Repositories\\BooksRepository.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.DataAccess\\Repositories\\BooksRepository.cs",
+              "RelativeToolTip": "Books.DataAccess\\Repositories\\BooksRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAwwCkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:58:39.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.DataAccess\\BooksDbContext.cs",
+              "RelativeDocumentMoniker": "Books.DataAccess\\BooksDbContext.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Books.DataAccess\\BooksDbContext.cs",
+              "RelativeToolTip": "Books.DataAccess\\BooksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:14:52.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Program.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Program.cs",
+              "RelativeToolTip": "Book_Management\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:45:17.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book_Management",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Book_Management.csproj",
+              "RelativeDocumentMoniker": "Book_Management\\Book_Management.csproj",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Book_Management.csproj",
+              "RelativeToolTip": "Book_Management\\Book_Management.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T05:41:58.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Book_Management\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\shrey\\Desktop\\DAY2 Internship\\Todays task\\TatvaSoft-Internship\\TatvaSoft-Internship\\Day4\\Book_Management\\Book_Management\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Book_Management\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T05:40:59.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
