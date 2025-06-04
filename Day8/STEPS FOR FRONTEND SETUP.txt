@@ -1,0 +1,19 @@
+# Project is in Angular 18
+
+1. Ensure Node.js version is >= v18.19.1
+
+2. Install Angular CLI (v18) if not already installed:
+
+   npm install -g @angular/cli@18
+
+3. Verify the Angular CLI installation:
+
+   ng version
+
+4. Install project dependencies:
+
+   npm install
+
+5. If any version or package compatibility issues occur, use the following command:
+
+   npm install --legacy-peer-deps
