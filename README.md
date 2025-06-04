@@ -39,6 +39,15 @@ I’m thrilled to be part of this **exciting 15-day summer internship program**,
 - Implemented Role-Based Access Control (RBAC)
 - **Hands-on**: Created a secure login with roles
 
+### 📊 Day 7: Advanced User Data Handling
+- Explored data joins, filters, paging using LINQ
+- *Hands-on*: CRUD and advanced retrieval
+
+### 🧩 Day 8: User CRUD Operations
+- Implemented CRUD on the mission table
+- *Hands-on*: Retrieve, Insert, Update, Delete
+
+
 ### Continue...
 
 ## 🧰 Tech Stack in Action
