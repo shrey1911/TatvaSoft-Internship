@@ -44,8 +44,12 @@ I’m thrilled to be part of this **exciting 15-day summer internship program**,
 - *Hands-on*: CRUD and advanced retrieval
 
 ### 🧩 Day 8: User CRUD Operations
-- Implemented CRUD on the mission table
+- Implemented CRUD operations on users from the frontend
 - *Hands-on*: Retrieve, Insert, Update, Delete
+
+### 🎯 Day 9: Mission CRUD
+- Extended CRUD to mission table
+- *Hands-on*: CRUD on Mission part
 
 
 ### Continue...
