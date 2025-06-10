@@ -51,6 +51,18 @@ I’m thrilled to be part of this **exciting 15-day summer internship program**,
 - Extended CRUD to mission themes
 - *Hands-on*: All operations on theme records
 
+### 🛠 Day 10: Skill Management
+- Built CRUD for mission skills
+- *Hands-on*: Skill table CRUD complete!
+
+### 📃 Day 11: Mission Listing (User Side)
+- Created frontend to display mission data
+- *Hands-on*: Display logic and integration
+
+### ✅ Day 12: Mission Application System
+- Built APIs for applying to missions and searching applications
+- *Hands-on*: Apply, retrieve, and manage mission applications
+
 
 ### Continue...
 
