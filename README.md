@@ -1,15 +1,24 @@
-#  Summer Internship at TatvaSoft - 2025
+# 🌞 Summer Internship at TatvaSoft - 2025
 
-**Status**: 🔥 *Currently Participating*  
+**Status**: 🔥 *Completed*  
 **Program**: Virtual Community Support  
 **Duration**: 15 Days  
-**Focus Areas**: Full Stack Development, Cloud Deployment, Real-world Projects
+**Focus Areas**: Full Stack Development, Cloud Deployment, Real-world Projects  
 
 ---
 
 ## 🎯 Overview
 
 I’m thrilled to be part of this **exciting 15-day summer internship program**, where I’m diving deep into technologies like **PostgreSQL, Angular, .NET, and AWS**. This hands-on experience is not just helping me build technical skills, but also giving me a real-world feel of software development and deployment.
+
+---
+
+## 🔗 Deployed Website
+
+Check out the live project here:  
+👉 **[https://mission-project-internship.netlify.app/](https://mission-project-internship.netlify.app/)**
+
+> ⚠️ **Note:** The backend is not yet deployed. To access full functionality, please run the backend locally.
 
 ---
 
@@ -63,24 +72,33 @@ I’m thrilled to be part of this **exciting 15-day summer internship program**,
 - Built APIs for applying to missions and searching applications
 - *Hands-on*: Apply, retrieve, and manage mission applications
 
+### 👤 Day 13: Profile Page & Deployment
+- Created profile management UI
+- *Hands-on*: Learning deployment strategies and environment setup
 
-### Continue...
+### 💬 Day 14: Project Discussion & Review
+- Team discussions, doubt clearing, and project retrospectives
 
-## 🧰 Tech Stack in Action
-- **Frontend**: Angular
-- **Backend**: .NET (C#), Entity Framework
-- **Database**: PostgreSQL
-- **Cloud**: AWS
+### ☁ Day 15: AWS Day!
+- Learning about AWS services and how to deploy projects on the cloud
+- *Hands-on*: Real deployment scenarios using AWS!
 
 ---
 
-##  What I'm Gaining
+## 🧰 Tech Stack in Action
+- **Frontend**: Angular  
+- **Backend**: .NET (C#), Entity Framework  
+- **Database**: PostgreSQL  
+- **Cloud**: AWS  
+
+---
+
+## 🌱 What I'm Gaining
 - 💡 Real-world experience in full-stack development  
 - 🛠️ Hands-on with project-based learning  
 - 🚀 Confidence in building and deploying production-ready apps  
-- 🔐 Deep understanding of authentication, authorization, and security
+- 🔐 Deep understanding of authentication, authorization, and security  
 
 ---
 
 ✨ *Excited to continue this journey and build something amazing by the end of this Internship!*
-
