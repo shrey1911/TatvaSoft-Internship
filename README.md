@@ -1,4 +1,4 @@
-# 🌞 Summer Internship at TatvaSoft - 2025
+# Summer Internship at TatvaSoft - 2025
 
 **Status**: 🔥 *Completed*  
 **Program**: Virtual Community Support  
