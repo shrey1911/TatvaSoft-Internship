@@ -89,7 +89,8 @@ Check out the live project here:
 - **Frontend**: Angular  
 - **Backend**: .NET (C#), Entity Framework  
 - **Database**: PostgreSQL  
-- **Cloud**: AWS  
+- **Cloud**: AWS
+- **Deployed On**: Netlify
 
 ---
 
